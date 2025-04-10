@@ -1,0 +1,1001 @@
+id,symptoms,condition_label,medicine_name,medicine_type,dosage,precautions
+1,"lip blisters, red patches, tingling",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+2,"dull tooth pain, gum swelling, sensitivity",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+3,"dull ache, throbbing pain, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+4,"stiffness, post workout pain, muscle soreness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+5,"low-grade fever, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+6,"chesty cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+7,"rashes, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+8,"gum swelling, dull tooth pain, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+9,"dry cough, throat irritation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+10,"burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+11,"burning chest, acid reflux, sour burps",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+12,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+13,"post workout pain, muscle soreness, stiffness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+14,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+15,"white patches, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+16,"dizziness, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+17,"sour burps, acid reflux, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+18,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+19,"tingling, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+20,"bloating, discomfort, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+21,"red eyes, dryness, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+22,"white patches, painful sores, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+23,"dizziness, vomiting",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+24,"difficulty eating, white patches",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+25,"gum swelling, dull tooth pain, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+26,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+27,"chesty cough, productive cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+28,"redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+29,"vomiting, dizziness",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+30,"redness, swelling, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+31,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+32,"white patches, difficulty eating, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+33,"mucus, chesty cough, productive cough",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+34,"throbbing pain, dull ache",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+35,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+36,"productive cough, chesty cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+37,"difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+38,"stiffness, post workout pain, muscle soreness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+39,"burning chest, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+40,"bloating, gas, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+41,"dry mouth, fatigue, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+42,"sore throat, runny nose",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+43,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+44,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+45,"itchy eyes, runny nose",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+46,"redness, swelling",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+47,"lip blisters, red patches, tingling",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+48,"sour burps, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+49,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+50,"body ache, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+51,"sore throat, sneezing",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+52,"rashes, red patches",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+53,"chills, low-grade fever, body ache",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+54,"infrequent stool, straining",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+55,"runny nose, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+56,"bloating, gas, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+57,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+58,"nasal congestion, headache, facial pain",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+59,"burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+60,"low-grade fever, body ache",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+61,"post workout pain, stiffness, muscle soreness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+62,"red eyes, dryness, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+63,"dizziness, dry mouth, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+64,"red patches, tingling, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+65,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+66,"swelling, redness",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+67,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+68,"red patches, rashes",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+69,"gum swelling, sensitivity",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+70,"tingling, red patches, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+71,"tingling, lip blisters, red patches",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+72,"muscle aches, fatigue",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+73,"temple pressure, dull ache",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+74,"itchy eyes, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+75,"redness, itching",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+76,"sneezing, itchy eyes",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+77,"fatigue, dizziness, dry mouth",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+78,"gas, bloating",indigestion,Digene,tablet,2 tabs after meals,Chew well
+79,"dull tooth pain, sensitivity, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+80,"sensitivity, gum swelling",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+81,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+82,"sour burps, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+83,"dizziness, fatigue, dry mouth",dehydration,Electral,solution,200ml as needed,Store in cool place
+84,"post workout pain, muscle soreness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+85,"tingling, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+86,"nasal congestion, facial pain",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+87,"swelling, burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+88,"sour burps, acid reflux, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+89,"temple pressure, throbbing pain",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+90,"dizziness, nausea, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+91,"chills, body ache",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+92,"vomiting, dizziness",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+93,"itching, redness",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+94,"nausea, dizziness",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+95,"headache, nasal congestion",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+96,"redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+97,"swelling, redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+98,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+99,"dull ache, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+100,"redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+101,"dizziness, dry mouth",dehydration,Electral,solution,200ml as needed,Store in cool place
+102,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+103,"itching, rashes",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+104,"low-grade fever, body ache, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+105,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+106,"acid reflux, sour burps, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+107,"painful sores, difficulty eating, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+108,"productive cough, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+109,"blurry vision, dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+110,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+111,"productive cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+112,"headache, nasal congestion, facial pain",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+113,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+114,"dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+115,"mucus, chesty cough, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+116,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+117,"difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+118,"red eyes, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+119,"runny nose, nasal congestion, sore throat",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+120,"burning chest, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+121,"itching, rashes",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+122,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+123,"nausea, vomiting, dizziness",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+124,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+125,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+126,"dry cough, throat irritation, tickling sensation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+127,"gas, bloating, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+128,"bloating, gas, discomfort",indigestion,Digene,tablet,2 tabs after meals,Chew well
+129,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+130,"swelling, burning, redness",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+131,"acid reflux, burning chest, sour burps",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+132,"red patches, lip blisters, tingling",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+133,"dizziness, vomiting",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+134,"painful sores, difficulty eating, white patches",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+135,"fatigue, dry mouth",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+136,"difficulty eating, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+137,"swelling, itching, redness",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+138,"dry mouth, fatigue, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+139,"itching, rashes",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+140,"facial pain, nasal congestion, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+141,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+142,"dull ache, temple pressure, throbbing pain",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+143,"temple pressure, throbbing pain, dull ache",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+144,"redness, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+145,"red patches, tingling, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+146,"nausea, dizziness, vomiting",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+147,"chills, body ache",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+148,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+149,"fatigue, muscle aches",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+150,"muscle soreness, post workout pain, stiffness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+151,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+152,"rashes, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+153,"discomfort, gas, bloating",indigestion,Digene,tablet,2 tabs after meals,Chew well
+154,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+155,"dizziness, vomiting, nausea",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+156,"red eyes, dryness, blurry vision",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+157,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+158,"fatigue, muscle aches",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+159,"stiffness, post workout pain",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+160,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+161,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+162,"white patches, difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+163,"acid reflux, sour burps",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+164,"runny nose, itchy eyes, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+165,"vomiting, dizziness, nausea",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+166,"tickling sensation, dry cough",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+167,"discomfort, gas, bloating",indigestion,Digene,tablet,2 tabs after meals,Chew well
+168,"rashes, itching, red patches",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+169,"throbbing pain, dull ache, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+170,"tickling sensation, dry cough, throat irritation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+171,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+172,"acid reflux, burning chest, sour burps",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+173,"gas, discomfort, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+174,"infrequent stool, straining",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+175,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+176,"dry mouth, dizziness, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+177,"muscle soreness, post workout pain, stiffness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+178,"mild fever, runny nose",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+179,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+180,"itching, swelling",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+181,"dryness, red eyes, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+182,"headache, facial pain, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+183,"gas, discomfort, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+184,"blurry vision, red eyes",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+185,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+186,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+187,"mucus, chesty cough",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+188,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+189,"dizziness, fatigue, dry mouth",dehydration,Electral,solution,200ml as needed,Store in cool place
+190,"white patches, difficulty eating",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+191,"redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+192,"throbbing pain, dull ache, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+193,"post workout pain, muscle soreness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+194,"dizziness, dry mouth, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+195,"temple pressure, dull ache, throbbing pain",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+196,"productive cough, mucus, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+197,"sneezing, runny nose",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+198,"temple pressure, throbbing pain",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+199,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+200,"runny nose, itchy eyes, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+201,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+202,"red patches, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+203,"swelling, itching, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+204,"burning chest, sour burps",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+205,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+206,"red patches, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+207,"dizziness, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+208,"chills, low-grade fever, body ache",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+209,"red eyes, blurry vision",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+210,"nasal congestion, sneezing, runny nose",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+211,"itchy eyes, runny nose, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+212,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+213,"white patches, difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+214,"sneezing, mild fever",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+215,"fatigue, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+216,"chesty cough, mucus, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+217,"mild fever, nasal congestion, sneezing",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+218,"gas, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+219,"acid reflux, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+220,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+221,"facial pain, headache",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+222,"chills, body ache",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+223,"low-grade fever, body ache",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+224,"chills, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+225,"post workout pain, muscle soreness, stiffness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+226,"post workout pain, muscle soreness, stiffness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+227,"itchy eyes, runny nose, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+228,"dull ache, temple pressure, throbbing pain",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+229,"chills, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+230,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+231,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+232,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+233,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+234,"painful sores, difficulty eating, white patches",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+235,"throat irritation, tickling sensation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+236,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+237,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+238,"sour burps, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+239,"sour burps, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+240,"dry cough, tickling sensation, throat irritation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+241,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+242,"sore throat, nasal congestion",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+243,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+244,"rashes, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+245,"burning, redness, swelling",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+246,"mucus, chesty cough, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+247,"dryness, blurry vision, red eyes",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+248,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+249,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+250,"sensitivity, gum swelling",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+251,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+252,"runny nose, sneezing, itchy eyes",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+253,"gum swelling, dull tooth pain, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+254,"itchy eyes, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+255,"nasal congestion, sore throat, sneezing",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+256,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+257,"itching, redness, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+258,"nasal congestion, facial pain, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+259,"difficulty eating, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+260,"painful sores, difficulty eating, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+261,"facial pain, headache, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+262,"scratchy throat, painful swallow",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+263,"blurry vision, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+264,"scratchy throat, painful swallow",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+265,"bloating, gas",indigestion,Digene,tablet,2 tabs after meals,Chew well
+266,"red patches, itching, rashes",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+267,"mucus, chesty cough, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+268,"dizziness, fatigue, dry mouth",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+269,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+270,"infrequent stool, straining",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+271,"fatigue, muscle aches",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+272,"red eyes, blurry vision, dryness",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+273,"red patches, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+274,"red patches, tingling, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+275,"runny nose, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+276,"dry cough, tickling sensation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+277,"runny nose, mild fever, sneezing",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+278,"nasal congestion, headache, facial pain",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+279,"dry cough, tickling sensation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+280,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+281,"stiffness, muscle soreness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+282,"difficulty eating, white patches, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+283,"itchy eyes, sneezing, runny nose",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+284,"swelling, redness",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+285,"blurry vision, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+286,"acid reflux, sour burps, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+287,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+288,"blurry vision, dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+289,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+290,"burning chest, sour burps, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+291,"itching, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+292,"runny nose, sneezing, itchy eyes",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+293,"post workout pain, muscle soreness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+294,"redness, itching, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+295,"swelling, itching",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+296,"dryness, red eyes, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+297,"sour burps, burning chest, acid reflux",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+298,"throbbing pain, temple pressure, dull ache",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+299,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+300,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+301,"throat irritation, tickling sensation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+302,"dull ache, throbbing pain, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+303,"chills, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+304,"nasal congestion, mild fever",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+305,"itching, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+306,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+307,"gas, discomfort, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+308,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+309,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+310,"nasal congestion, mild fever",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+311,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+312,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+313,"mucus, productive cough, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+314,"facial pain, headache",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+315,"facial pain, nasal congestion, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+316,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+317,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+318,"stiffness, post workout pain, muscle soreness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+319,"post workout pain, muscle soreness, stiffness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+320,"dizziness, dry mouth, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+321,"blurry vision, dryness, red eyes",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+322,"fatigue, muscle aches",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+323,"acid reflux, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+324,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+325,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+326,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+327,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+328,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+329,"painful swallow, scratchy throat",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+330,"bloating, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+331,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+332,"facial pain, headache",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+333,"bloating, discomfort, gas",indigestion,Digene,tablet,2 tabs after meals,Chew well
+334,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+335,"throat irritation, tickling sensation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+336,"white patches, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+337,"itching, rashes, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+338,"nasal congestion, sneezing, mild fever",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+339,"nasal congestion, facial pain",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+340,"post workout pain, stiffness, muscle soreness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+341,"sneezing, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+342,"low-grade fever, body ache",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+343,"swelling, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+344,"facial pain, headache",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+345,"discomfort, gas",indigestion,Digene,tablet,2 tabs after meals,Chew well
+346,"red eyes, dryness, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+347,"sore throat, runny nose",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+348,"sour burps, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+349,"tingling, red patches, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+350,"mucus, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+351,"dizziness, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+352,"itching, swelling, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+353,"discomfort, gas, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+354,"nasal congestion, facial pain, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+355,"post workout pain, muscle soreness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+356,"discomfort, bloating, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+357,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+358,"low-grade fever, chills, body ache",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+359,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+360,"mucus, productive cough",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+361,"bloating, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+362,"blurry vision, red eyes, dryness",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+363,"swelling, redness",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+364,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+365,"acid reflux, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+366,"tickling sensation, throat irritation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+367,"dull tooth pain, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+368,"dry mouth, dizziness, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+369,"red eyes, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+370,"red patches, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+371,"red patches, rashes, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+372,"headache, nasal congestion, facial pain",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+373,"swelling, itching, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+374,"nasal congestion, facial pain, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+375,"dizziness, vomiting, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+376,"itching, red patches",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+377,"dry mouth, fatigue, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+378,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+379,"throat irritation, dry cough",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+380,"painful swallow, scratchy throat",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+381,"low-grade fever, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+382,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+383,"burning, redness, swelling",minor_burn,Silverex,cream,Apply thin layer,External use only
+384,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+385,"facial pain, headache",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+386,"rashes, itching, red patches",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+387,"swelling, redness, burning",minor_burn,Silverex,cream,Apply thin layer,External use only
+388,"burning, redness, swelling",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+389,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+390,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+391,"fatigue, muscle aches",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+392,"redness, itching",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+393,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+394,"dryness, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+395,"discomfort, bloating, gas",indigestion,Digene,tablet,2 tabs after meals,Chew well
+396,"swelling, burning",minor_burn,Silverex,cream,Apply thin layer,External use only
+397,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+398,"sour burps, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+399,"chesty cough, productive cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+400,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+401,"mucus, chesty cough, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+402,"chills, body ache, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+403,"body ache, chills, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+404,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+405,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+406,"low-grade fever, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+407,"painful sores, difficulty eating, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+408,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+409,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+410,"mild fever, nasal congestion, sneezing",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+411,"low-grade fever, chills, body ache",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+412,"tingling, red patches, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+413,"tickling sensation, dry cough, throat irritation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+414,"low-grade fever, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+415,"dizziness, nausea, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+416,"lip blisters, tingling, red patches",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+417,"painful sores, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+418,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+419,"bloating, gas, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+420,"redness, swelling, itching",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+421,"runny nose, sore throat",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+422,"dizziness, dry mouth",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+423,"throbbing pain, dull ache",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+424,"muscle soreness, stiffness, post workout pain",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+425,"lip blisters, tingling",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+426,"white patches, difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+427,"throat irritation, tickling sensation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+428,"muscle soreness, post workout pain",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+429,"runny nose, mild fever",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+430,"headache, nasal congestion, facial pain",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+431,"dizziness, vomiting, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+432,"facial pain, headache, nasal congestion",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+433,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+434,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+435,"bloating, discomfort, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+436,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+437,"blurry vision, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+438,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+439,"dry cough, tickling sensation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+440,"sore throat, runny nose",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+441,"throat irritation, tickling sensation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+442,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+443,"white patches, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+444,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+445,"fatigue, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+446,"nasal congestion, runny nose",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+447,"red eyes, blurry vision",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+448,"red eyes, blurry vision, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+449,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+450,"facial pain, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+451,"dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+452,"nausea, vomiting, dizziness",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+453,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+454,"swelling, itching, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+455,"white patches, difficulty eating, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+456,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+457,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+458,"bloating, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+459,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+460,"itching, red patches, rashes",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+461,"red eyes, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+462,"difficulty eating, painful sores, white patches",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+463,"mild fever, nasal congestion, runny nose",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+464,"redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+465,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+466,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+467,"itching, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+468,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+469,"low-grade fever, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+470,"dizziness, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+471,"gum swelling, dull tooth pain, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+472,"dry mouth, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+473,"vomiting, nausea, dizziness",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+474,"nasal congestion, headache, facial pain",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+475,"swelling, redness, burning",minor_burn,Silverex,cream,Apply thin layer,External use only
+476,"facial pain, nasal congestion, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+477,"productive cough, chesty cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+478,"swelling, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+479,"lip blisters, tingling, red patches",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+480,"stiffness, post workout pain",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+481,"red patches, tingling, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+482,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+483,"burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+484,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+485,"temple pressure, throbbing pain, dull ache",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+486,"dizziness, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+487,"nasal congestion, runny nose",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+488,"bloating, discomfort, gas",indigestion,Digene,tablet,2 tabs after meals,Chew well
+489,"throat irritation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+490,"painful swallow, scratchy throat",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+491,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+492,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+493,"painful sores, difficulty eating, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+494,"chills, body ache, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+495,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+496,"bloating, discomfort, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+497,"sneezing, runny nose",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+498,"rashes, itching, red patches",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+499,"stiffness, muscle soreness, post workout pain",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+500,"muscle aches, fatigue",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+501,"blurry vision, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+502,"painful swallow, scratchy throat",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+503,"chesty cough, mucus, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+504,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+505,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+506,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+507,"red patches, itching, rashes",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+508,"runny nose, itchy eyes",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+509,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+510,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+511,"sneezing, runny nose",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+512,"lip blisters, red patches, tingling",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+513,"white patches, painful sores, difficulty eating",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+514,"sneezing, sore throat",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+515,"throbbing pain, dull ache",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+516,"discomfort, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+517,"body ache, low-grade fever, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+518,"blurry vision, dryness",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+519,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+520,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+521,"difficulty eating, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+522,"dull tooth pain, gum swelling",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+523,"dizziness, vomiting",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+524,"discomfort, bloating, gas",indigestion,Digene,tablet,2 tabs after meals,Chew well
+525,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+526,"tickling sensation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+527,"burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+528,"red eyes, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+529,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+530,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+531,"sour burps, acid reflux, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+532,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+533,"sour burps, acid reflux, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+534,"sour burps, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+535,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+536,"chesty cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+537,"headache, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+538,"nausea, dizziness",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+539,"dry cough, throat irritation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+540,"sensitivity, gum swelling, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+541,"sore throat, sneezing",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+542,"body ache, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+543,"post workout pain, stiffness, muscle soreness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+544,"mucus, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+545,"burning, swelling",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+546,"headache, nasal congestion, facial pain",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+547,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+548,"acid reflux, sour burps, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+549,"sneezing, sore throat, mild fever",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+550,"throbbing pain, temple pressure",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+551,"red patches, tingling",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+552,"itching, swelling",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+553,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+554,"dry cough, tickling sensation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+555,"painful sores, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+556,"chesty cough, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+557,"dizziness, fatigue, dry mouth",dehydration,Electral,solution,200ml as needed,Store in cool place
+558,"tingling, red patches, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+559,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+560,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+561,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+562,"stiffness, muscle soreness, post workout pain",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+563,"difficulty eating, painful sores, white patches",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+564,"sore throat, runny nose, mild fever",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+565,"painful sores, difficulty eating, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+566,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+567,"sneezing, runny nose, mild fever",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+568,"tickling sensation, dry cough, throat irritation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+569,"productive cough, mucus, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+570,"red eyes, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+571,"itching, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+572,"tingling, lip blisters, red patches",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+573,"sneezing, sore throat",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+574,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+575,"runny nose, mild fever",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+576,"itchy eyes, runny nose",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+577,"chills, body ache, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+578,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+579,"painful swallow, scratchy throat",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+580,"nasal congestion, facial pain",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+581,"nasal congestion, facial pain, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+582,"swelling, redness",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+583,"painful sores, white patches, difficulty eating",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+584,"mild fever, nasal congestion",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+585,"productive cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+586,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+587,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+588,"dizziness, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+589,"gas, discomfort, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+590,"dry mouth, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+591,"nausea, dizziness, vomiting",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+592,"facial pain, headache, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+593,"tickling sensation, throat irritation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+594,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+595,"blurry vision, dryness, red eyes",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+596,"dryness, red eyes, blurry vision",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+597,"runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+598,"discomfort, bloating",indigestion,Digene,tablet,2 tabs after meals,Chew well
+599,"body ache, low-grade fever, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+600,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+601,"gas, bloating",indigestion,Digene,tablet,2 tabs after meals,Chew well
+602,"gum swelling, dull tooth pain",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+603,"dry mouth, fatigue, dizziness",dehydration,Electral,solution,200ml as needed,Store in cool place
+604,"white patches, painful sores, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+605,"gum swelling, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+606,"red patches, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+607,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+608,"gum swelling, sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+609,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+610,"dryness, blurry vision, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+611,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+612,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+613,"fatigue, muscle aches",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+614,"chesty cough, mucus, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+615,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+616,"nasal congestion, sneezing, sore throat",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+617,"dull tooth pain, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+618,"mucus, productive cough, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+619,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+620,"tingling, lip blisters, red patches",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+621,"itching, rashes",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+622,"painful sores, difficulty eating",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+623,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+624,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+625,"facial pain, nasal congestion, headache",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+626,"scratchy throat, painful swallow",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+627,"painful sores, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+628,"throat irritation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+629,"dry mouth, dizziness, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+630,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+631,"discomfort, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+632,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+633,"tingling, red patches, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+634,"body ache, chills, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+635,"white patches, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+636,"dizziness, vomiting, nausea",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+637,"tingling, lip blisters, red patches",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+638,"red eyes, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+639,"runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+640,"sour burps, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+641,"difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+642,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+643,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+644,"tickling sensation, dry cough",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+645,"throbbing pain, dull ache, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+646,"white patches, difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+647,"red patches, rashes",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+648,"difficulty eating, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+649,"chesty cough, productive cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+650,"infrequent stool, straining",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+651,"runny nose, itchy eyes, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+652,"gas, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+653,"dryness, red eyes, blurry vision",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+654,"sneezing, mild fever, nasal congestion",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+655,"red patches, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+656,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+657,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+658,"mild fever, runny nose, sore throat",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+659,"nasal congestion, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+660,"dizziness, nausea, vomiting",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+661,"swelling, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+662,"dizziness, vomiting, nausea",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+663,"burning chest, acid reflux, sour burps",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+664,"body ache, chills, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+665,"red patches, lip blisters, tingling",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+666,"red eyes, dryness, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+667,"itching, red patches, rashes",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+668,"itchy eyes, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+669,"burning chest, sour burps, acid reflux",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+670,"dull ache, throbbing pain",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+671,"chills, body ache, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+672,"swelling, redness, itching",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+673,"headache, facial pain, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+674,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+675,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+676,"facial pain, nasal congestion, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+677,"swelling, burning, redness",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+678,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+679,"painful sores, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+680,"itching, redness",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+681,"body ache, low-grade fever, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+682,"dizziness, vomiting, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+683,"tingling, lip blisters, red patches",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+684,"dull ache, temple pressure, throbbing pain",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+685,"sore throat, nasal congestion",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+686,"tingling, lip blisters",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+687,"dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+688,"dizziness, dry mouth",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+689,"burning chest, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+690,"itchy eyes, runny nose",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+691,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+692,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+693,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+694,"fatigue, dizziness, dry mouth",dehydration,Electral,solution,200ml as needed,Store in cool place
+695,"itching, rashes, red patches",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+696,"fatigue, dry mouth, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+697,"swelling, redness",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+698,"fatigue, muscle aches",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+699,"painful swallow, scratchy throat",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+700,"swelling, itching, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+701,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+702,"chesty cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+703,"productive cough, mucus",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+704,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+705,"red eyes, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+706,"dry mouth, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+707,"runny nose, nasal congestion, sneezing",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+708,"red patches, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+709,"dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+710,"itching, redness, swelling",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+711,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+712,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+713,"dry cough, tickling sensation, throat irritation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+714,"dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+715,"swelling, burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+716,"nausea, vomiting, dizziness",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+717,"blurry vision, dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+718,"blurry vision, dryness, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+719,"fatigue, muscle aches",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+720,"throbbing pain, dull ache",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+721,"sore throat, nasal congestion",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+722,"dryness, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+723,"discomfort, bloating, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+724,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+725,"straining, infrequent stool",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+726,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+727,"muscle soreness, stiffness, post workout pain",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+728,"dry mouth, dizziness",dehydration,Electral,solution,200ml as needed,Store in cool place
+729,"mucus, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+730,"frequent loose stools, cramping",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+731,"low-grade fever, body ache, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+732,"mucus, productive cough, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+733,"throat irritation, tickling sensation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+734,"red patches, rashes, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+735,"dizziness, nausea, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+736,"painful sores, white patches, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+737,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+738,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+739,"runny nose, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+740,"nausea, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+741,"redness, burning",minor_burn,Silverex,cream,Apply thin layer,External use only
+742,"itchy eyes, sneezing, runny nose",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+743,"difficulty eating, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+744,"redness, burning, swelling",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+745,"painful sores, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+746,"rashes, itching, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+747,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+748,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+749,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+750,"dryness, blurry vision",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+751,"dull ache, throbbing pain, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+752,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+753,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+754,"swelling, burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+755,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+756,"redness, burning, swelling",minor_burn,Silverex,cream,Apply thin layer,External use only
+757,"vomiting, dizziness",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+758,"sneezing, nasal congestion",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+759,"redness, swelling, itching",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+760,"dizziness, vomiting, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+761,"post workout pain, muscle soreness, stiffness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+762,"scratchy throat, painful swallow",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+763,"bloating, gas, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+764,"itching, rashes, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+765,"sensitivity, gum swelling, dull tooth pain",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+766,"chesty cough, productive cough, mucus",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+767,"fatigue, muscle aches",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+768,"sore throat, sneezing",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+769,"dull tooth pain, sensitivity",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+770,"mild fever, sneezing",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+771,"itchy eyes, runny nose",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+772,"body ache, low-grade fever, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+773,"itching, rashes, red patches",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+774,"white patches, difficulty eating",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+775,"redness, itching, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+776,"productive cough, mucus",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+777,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+778,"sensitivity, dull tooth pain, gum swelling",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+779,"itchy eyes, sneezing, runny nose",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+780,"difficulty eating, white patches, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+781,"scratchy throat, painful swallow",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+782,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+783,"dizziness, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+784,"dizziness, vomiting, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+785,"burning chest, sour burps",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+786,"facial pain, nasal congestion, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+787,"body ache, chills, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+788,"red patches, rashes, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+789,"burning chest, acid reflux",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+790,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+791,"nasal congestion, facial pain, headache",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+792,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+793,"muscle aches, fatigue",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+794,"itching, rashes, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+795,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+796,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+797,"headache, facial pain, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+798,"throat irritation, tickling sensation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+799,"acid reflux, sour burps, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+800,"dryness, blurry vision, red eyes",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+801,"burning, redness",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+802,"vomiting, nausea, dizziness",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+803,"sneezing, itchy eyes, runny nose",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+804,"body ache, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+805,"dry cough, tickling sensation",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+806,"scratchy throat, painful swallow",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+807,"gum swelling, dull tooth pain, sensitivity",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+808,"muscle soreness, post workout pain",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+809,"muscle soreness, post workout pain, stiffness",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+810,"nausea, dizziness, vomiting",motion_sickness,Avomine,tablet,1 tab 1 hr before travel,Causes drowsiness
+811,"nasal congestion, sore throat",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+812,"painful swallow, scratchy throat",sore_throat,Strepsils,lozenge,1 every 2-3 hrs,Do not exceed 8/day
+813,"scratchy throat, painful swallow",sore_throat,Vicks Lozenges,lozenge,1 every 3 hrs,Suck slowly
+814,"tickling sensation, dry cough, throat irritation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+815,"sour burps, burning chest, acid reflux",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+816,"swelling, itching",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+817,"throbbing pain, dull ache, temple pressure",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+818,"dull tooth pain, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+819,"dull tooth pain, gum swelling, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+820,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+821,"facial pain, headache, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+822,"productive cough, chesty cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+823,"infrequent stool, straining",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+824,"sensitivity, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+825,"runny nose, sneezing, mild fever",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+826,"dizziness, dry mouth, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+827,"body ache, low-grade fever, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+828,"swelling, redness",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+829,"vomiting, dizziness, nausea",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+830,"temple pressure, throbbing pain, dull ache",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+831,"sensitivity, dull tooth pain",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+832,"itchy eyes, runny nose",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+833,"mucus, productive cough, chesty cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+834,"body ache, low-grade fever, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+835,"nausea, vomiting, dizziness",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+836,"straining, infrequent stool",constipation,Lactulose,syrup,15ml once daily,Take with water
+837,"dry mouth, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+838,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+839,"sour burps, acid reflux, burning chest",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+840,"dry mouth, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+841,"dryness, red eyes, blurry vision",eye_strain,Refresh Tears,eye drops,2 drops 3x/day,Do not touch dropper
+842,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+843,"discomfort, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+844,"dull ache, temple pressure, throbbing pain",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+845,"itching, redness, swelling",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+846,"mild fever, sore throat",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+847,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+848,"sensitivity, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+849,"painful sores, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+850,"body ache, chills",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+851,"mucus, productive cough",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+852,"headache, facial pain",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+853,"dizziness, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+854,"productive cough, mucus",wet_cough,Guaifenesin,syrup,10ml 3x/day,Take after food
+855,"itching, redness, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+856,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+857,"runny nose, itchy eyes, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+858,"swelling, redness, burning",minor_burn,Silverex,cream,Apply thin layer,External use only
+859,"urge to vomit, queasiness",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+860,"dull ache, throbbing pain, temple pressure",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+861,"dry mouth, dizziness",dehydration,Electral,solution,200ml as needed,Store in cool place
+862,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+863,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+864,"red patches, rashes, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+865,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+866,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+867,"dryness, red eyes",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+868,"dizziness, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+869,"dry mouth, dizziness, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+870,"gas, discomfort, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+871,"tingling, red patches",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+872,"difficulty eating, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+873,"tingling, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+874,"throat irritation, dry cough",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+875,"tingling, red patches",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+876,"muscle aches, fatigue",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+877,"infrequent stool, straining",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+878,"dry mouth, dizziness",dehydration,Electral,solution,200ml as needed,Store in cool place
+879,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+880,"body ache, chills, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+881,"tingling, red patches, lip blisters",cold_sores,Abzorb,powder,Sprinkle on sores,External use only
+882,"body ache, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+883,"throbbing pain, dull ache",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+884,"gas, discomfort",indigestion,Gelusil,liquid,10ml after meals,Shake well
+885,"painful sores, white patches",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+886,"red patches, itching, rashes",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+887,"tickling sensation, dry cough",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+888,"tickling sensation, throat irritation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+889,"mucus, chesty cough",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+890,"nausea, dizziness",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+891,"itchy eyes, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+892,"chesty cough, mucus",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+893,"cramping, frequent loose stools",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+894,"itchy eyes, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+895,"dry mouth, dizziness, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+896,"dull ache, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+897,"chills, body ache, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+898,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+899,"sensitivity, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+900,"discomfort, bloating, gas",indigestion,Digene,tablet,2 tabs after meals,Chew well
+901,"gum swelling, dull tooth pain, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+902,"dizziness, fatigue, dry mouth",dehydration,Electral,solution,200ml as needed,Store in cool place
+903,"runny nose, nasal congestion",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+904,"itching, red patches, rashes",mild_skin_allergy,Caladryl,lotion,Apply 2x/day,For external use
+905,"redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+906,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+907,"red patches, rashes, itching",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+908,"itching, redness, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+909,"throbbing pain, dull ache, temple pressure",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+910,"white patches, difficulty eating, painful sores",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+911,"burning, redness, swelling",minor_burn,Silverex,cream,Apply thin layer,External use only
+912,"runny nose, itchy eyes, sneezing",allergic_rhinitis,Levocetirizine,tablet,1 tab daily,Avoid alcohol
+913,"burning chest, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+914,"burning chest, sour burps, acid reflux",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+915,"headache, nasal congestion, facial pain",sinus_congestion,Xylometazoline,nasal spray,1 spray twice/day,Do not overuse
+916,"itching, redness, swelling",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+917,"infrequent stool, straining",constipation,Lactulose,syrup,15ml once daily,Take with water
+918,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+919,"fatigue, dry mouth, dizziness",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+920,"nausea, dizziness, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+921,"mild fever, runny nose",common_cold,Sinarest,tablet,1 tab 3x/day,May cause drowsiness
+922,"burning, swelling, redness",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+923,"tickling sensation, throat irritation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+924,"muscle soreness, post workout pain, stiffness",sore_muscles,Moov,cream,Apply gently on affected area,Wash hands after use
+925,"sour burps, burning chest",acidity,Rantac,tablet,1 tab before meals,Avoid spicy food
+926,"fatigue, muscle aches",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+927,"gum swelling, sensitivity",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+928,"dizziness, dry mouth, fatigue",dehydration,Electral,solution,200ml as needed,Store in cool place
+929,"throat irritation, tickling sensation",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+930,"throat irritation, tickling sensation, dry cough",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+931,"back ache, lower abdomen pain",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+932,"burning chest, acid reflux",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+933,"redness, swelling, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+934,"sensitivity, gum swelling",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+935,"redness, swelling, burning",minor_burn,Silverex,cream,Apply thin layer,External use only
+936,"muscle aches, fatigue",body_pain,Flexon,tablet,1 tab 2x/day,Take with food
+937,"queasiness, urge to vomit",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+938,"gas, discomfort",indigestion,Digene,tablet,2 tabs after meals,Chew well
+939,"dull tooth pain, sensitivity, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+940,"urge to vomit, queasiness",nausea,Domperidone,tablet,1 tab before meals,Avoid alcohol
+941,"swelling, itching, redness",insect_bite,Cetrizine,tablet,1 tab at night,May cause drowsiness
+942,"infrequent stool, straining",constipation,Isabgol,powder,1 tbsp with warm water,Take before bed
+943,"throbbing pain, dull ache",headache,Crocin,tablet,1 tab when needed,Max 2 tabs/day
+944,"nasal congestion, mild fever",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+945,"lower abdomen pain, back ache",menstrual_cramps,Meftal Spas,tablet,1 tab 2x/day,With food
+946,"itching, red patches",mild_skin_allergy,Allegra,tablet,1 tab daily,Non-drowsy
+947,"swelling, burning, redness",minor_burn,Silverex,cream,Apply thin layer,External use only
+948,"sour burps, acid reflux",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+949,"dull tooth pain, gum swelling",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+950,"painful sores, white patches",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+951,"cramping, frequent loose stools",diarrhea,Loperamide,tablet,1 tab after stool,Not for kids under 12
+952,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+953,"queasiness, urge to vomit",nausea,Ondansetron,tablet,1 tab as needed,May cause dizziness
+954,"productive cough, mucus, chesty cough",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+955,"sneezing, runny nose, itchy eyes",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+956,"difficulty eating, white patches, painful sores",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+957,"redness, itching",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+958,"red patches, tingling",cold_sores,Zovirax,cream,Apply 5x/day,Avoid contact with eyes
+959,"itching, swelling",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+960,"runny nose, sneezing",allergic_rhinitis,Cetirizine,tablet,1 tab at night,May cause drowsiness
+961,"itching, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+962,"chills, body ache, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+963,"dizziness, fatigue",dehydration,ORS,solution,100-200ml/hour,Use within 24 hrs
+964,"low-grade fever, body ache, chills",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+965,"tickling sensation, dry cough",dry_cough,Dextromethorphan,syrup,10ml every 6 hrs,Not for diabetics
+966,"sour burps, acid reflux",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+967,"swelling, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+968,"sensitivity, dull tooth pain",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+969,"dull tooth pain, gum swelling",mild_toothache,Orajel,gel,Apply to gums,Do not use more than 4x/day
+970,"nasal congestion, sneezing, mild fever",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+971,"painful sores, difficulty eating",mouth_ulcers,Boro Plus,cream,Apply on affected area,Use after meals
+972,"dull tooth pain, sensitivity",mild_toothache,Clove oil,oil,Apply with cotton,Avoid ingestion
+973,"dull ache, throbbing pain, temple pressure",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+974,"painful sores, white patches, difficulty eating",mouth_ulcers,Zytee,gel,Apply 3x/day,Do not swallow
+975,"swelling, redness",insect_bite,Calamine,lotion,Apply as needed,Do not ingest
+976,"redness, swelling",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+977,"throbbing pain, temple pressure, dull ache",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+978,"discomfort, gas",indigestion,Gelusil,liquid,10ml after meals,Shake well
+979,"redness, burning",minor_burn,Burnol,cream,Apply 2x/day,Do not bandage
+980,"blurry vision, dryness",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+981,"burning chest, sour burps",acidity,Pantoprazole,tablet,1 tab before food,Empty stomach
+982,"muscle soreness, post workout pain",sore_muscles,Volini,spray,Spray 2x/day,Do not use on cuts
+983,"dry mouth, fatigue, dizziness",dehydration,Electral,solution,200ml as needed,Store in cool place
+984,"headache, nasal congestion",sinus_congestion,Otrivin,nasal spray,1 spray each nostril twice/day,Max 3 days use
+985,"chesty cough, mucus",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+986,"chills, body ache, low-grade fever",mild_fever,Paracetamol,tablet,1 tab every 6 hrs,Do not exceed 4 tabs/day
+987,"tickling sensation, dry cough",dry_cough,Ascoril D,syrup,5ml twice daily,Shake well before use
+988,"chills, low-grade fever",mild_fever,Dolo 650,tablet,1 tab after meals,Take with water
+989,"dryness, red eyes",eye_strain,Itone,eye drops,1-2 drops daily,Refrigerate after opening
+990,"dull ache, throbbing pain, temple pressure",headache,Saridon,tablet,1 tab 2x/day,Avoid in pregnancy
+991,"runny nose, sneezing",common_cold,Dolo Cold,tablet,1 tab every 8 hours,Avoid alcohol
+992,"mucus, chesty cough",wet_cough,Ambroxol,syrup,5ml every 8 hrs,Avoid in children <6
+993,"back ache, lower abdomen pain",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+994,"dizziness, nausea, vomiting",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+995,"nausea, vomiting, dizziness",motion_sickness,Domperidone,tablet,1 tab before travel,Avoid driving
+996,"muscle aches, fatigue",body_pain,Dolo 650,tablet,1 tab 3x/day,Do not overdose
+997,"lower abdomen pain, back ache",menstrual_cramps,Ibuprofen,tablet,1 tab every 8 hrs,Avoid on empty stomach
+998,"gas, bloating",indigestion,Gelusil,liquid,10ml after meals,Shake well
+999,"frequent loose stools, cramping",diarrhea,ORS,solution,200ml after every loose stool,Use within 24 hrs
+1000,"bloating, discomfort",indigestion,Digene,tablet,2 tabs after meals,Chew well
